@@ -1,7 +1,8 @@
 # User-auth
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application was created using the tutorial from http://www.programwitherik.com/emberjs_2-0_example_app_with_firebase/
+It allows users to sign into the blog site using Twitter authentication and to make blog posts or comments under their Twitter handle.
 
 ## Prerequisites
 
@@ -50,4 +51,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
