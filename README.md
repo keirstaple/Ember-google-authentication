@@ -2,7 +2,7 @@
 
 This README outlines the details of collaborating on this Ember application.
 This application was created using the tutorial from http://www.programwitherik.com/emberjs_2-0_example_app_with_firebase/
-It allows users to sign into the blog site using Twitter authentication and to make blog posts or comments under their Twitter handle.
+It allows users to sign into the blog site using Google authentication and to make blog posts or comments under their Google handle.
 
 ## Prerequisites
 
